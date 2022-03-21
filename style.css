@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Raleway:wght@100&display=swap');
+
+body{
+    background-color: #655560;
+    color: #C4CAD0;
+    font-family: 'Comfortaa', cursive;
+}
+
+h1,h2,h3{
+    font-family: 'Raleway', cursive;
+}
+
+.content{
+    margin: 0 auto;
+    width: 80%;
+    min-height: 600px;
+    border: 2px solid red;
+}
+
+footer{
+    align-items: center;
+    justify-content: center; 
+}
